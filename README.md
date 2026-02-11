@@ -1,1 +1,1 @@
-## Project of Applied AI for Neural Network
+## Automated Email Spam Ditector Model

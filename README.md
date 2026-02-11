@@ -32,8 +32,12 @@ A Streamlit app that demonstrates multiple spam-detection models (PyTorch) train
 ## Setup (Local)
 ### 1) Clone the repo
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/nkntty/EmailSpam_Classifier.git
+cd EmailSpam_Classifier
+
+##Make sure the model files (.pth/.pt) remain inside the models/ folder.
+
+
 
 
 2) Create and activate a virtual environment

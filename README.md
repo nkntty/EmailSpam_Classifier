@@ -1,1 +1,1 @@
-## Email Spam Classifier
+## Project of Applied AI for Neural Network
